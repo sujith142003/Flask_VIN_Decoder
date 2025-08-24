@@ -1,8 +1,9 @@
-🚀 "Automatic Barcode Generator as per Plan (AI with VIN Decoder)"
+# 🚀 "Automatic Barcode Generator as per Plan (AI with VIN Decoder)"
 
 📌 Overview
 This project automates barcode creation for manufacturing workflows using AI, OCR, and VIN decoding.
 Instead of manually creating labels, the system reads a Vehicle Identification Number (VIN), decodes it, matches it with the manufacturing plan, and instantly generates an accurate barcode — saving time, reducing human errors, and improving efficiency.
+
 
 ✨ Features
 VIN Decoding – Reads and extracts manufacturing details from the VIN.
@@ -17,6 +18,7 @@ Error Reduction – Minimizes manual data entry and mistakes.
 
 Seamless Integration – Fits easily into existing manufacturing workflows.
 
+
 🛠 Tech Stack
 Programming Language: Python
 
@@ -27,6 +29,7 @@ OCR: Tesseract OCR
 Barcode Generation: Python Barcode Libraries
 
 AI Processing: VIN Data Extraction & Matching
+
 
 📂 Project Workflow
 Scan or Input VIN → System reads VIN via OCR.
@@ -39,8 +42,7 @@ Generate Barcode → Creates the correct barcode automatically.
 
 Output → Barcode ready for printing or digital use.
 
-📸 Screenshots
-(Add screenshots of your UI, barcode output, or workflow diagram here)
+
 
 🔧 Installation & Usage
 
@@ -56,6 +58,7 @@ Upload or scan a VIN image.
 
 The system decodes and generates the barcode automatically.
 
+
 📈 Impact
 Reduced manual work in label creation.
 
@@ -66,3 +69,4 @@ Minimized human error.
 
 📜 License
 This project is licensed under the MIT License – free to use and modify.
+
